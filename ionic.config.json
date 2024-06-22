@@ -1,0 +1,7 @@
+{
+  "name": "InfoSpace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
