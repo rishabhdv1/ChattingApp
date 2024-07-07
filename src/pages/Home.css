@@ -1,0 +1,11 @@
+.pokeImage {
+    width: 100%;
+    max-width: 400px; /* Adjust this value as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: high-quality;
+  }
+  
